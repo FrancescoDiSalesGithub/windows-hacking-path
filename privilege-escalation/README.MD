@@ -7,3 +7,4 @@ methods studied for now:
 * Powershell history
 * SAM hiving
 * Memory dump
+* AlwaysInstalled
