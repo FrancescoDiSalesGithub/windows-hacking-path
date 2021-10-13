@@ -1,4 +1,4 @@
-#Privilege escaltion
+# Privilege escaltion
 
 methods studied for now:
 
